@@ -33,12 +33,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak7009&show_icons=true&locale=en&layout=compact" alt="deepak7009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak7009&show_icons=true&locale=en" alt="deepak7009" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak7009&" alt="deepak7009" /></p>
 ---
+
+  
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?username=deepak7009&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
