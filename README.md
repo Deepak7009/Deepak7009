@@ -32,9 +32,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak7009&" alt="deepak7009" /></p>
-
-
 ---
 
   
@@ -61,5 +58,5 @@
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
