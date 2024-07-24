@@ -58,5 +58,5 @@
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g546967" alt="snake"/>
 </p>
