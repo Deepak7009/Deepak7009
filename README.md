@@ -33,7 +33,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak7009&" alt="deepak7009" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=deepak7009theme=highcontrast&hide_border=true&border_radius=5&card_width=800" /></p>
 
 
 ---
