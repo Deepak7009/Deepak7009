@@ -13,7 +13,7 @@
  
 - 👯 I’m looking to collaborate on **e-commerce site**
 
-- 👨‍💻 All of my projects are available at [Deepak7009](Deepak7009)
+- 👨‍💻 All of my projects are available at [Deepak7009](Deepak7009) 
 
 - 📫 How to reach me **deepak7009verma@gmail.com**
 
