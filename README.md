@@ -95,18 +95,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://cloud-billing.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak7009&repo=cloud-billing&theme=radical&bg_color=0d1117&title_color=F7A83E&hide_border=true" />
-  </a>
-  <a href="https://github.com/deepak7009/ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak7009&repo=ecommerce&theme=radical&bg_color=0d1117&title_color=F7A83E&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
