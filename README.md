@@ -1,7 +1,9 @@
 <div align="center">
   
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F7A83E&center=true&vCenter=true&width=800&lines=Hello+World!+%F0%9F%8C%8D;I'm+Deepak+Kumar;Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F0883E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Deepak+Verma;Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Building+Scalable+Systems" alt="Typing Animation" />
+</h1>
 
 <!-- Profile Views Counter -->
 <p align="center">
